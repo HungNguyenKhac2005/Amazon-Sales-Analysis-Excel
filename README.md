@@ -38,6 +38,7 @@ Tháng 2 và tháng 3 doanh số tăng mạnh rất đáng ấn tượng, tuy nh
 (Xem tri tiết insight và recomendation trong file Amazon_Sales_Analysis_V1.xlsx)
 
 ### 5. Hình ảnh Dashboard
-
+Dashboard tab1
 ![Dashboard Screenshot](Screenshots/Dashboardtab1.png)
-(Việc chèn ảnh giúp nhà tuyển dụng thấy ngay năng lực thiết kế của bạn mà không cần mở Excel).
+Dashboard tab2
+![Dashboard Screenshot](Screenshots/Dashboardtab2.png)
